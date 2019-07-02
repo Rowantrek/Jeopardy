@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>rsc/Question100.png</file>
+        <file>rsc/Question200.png</file>
+        <file>rsc/Question500.png</file>
+        <file>rsc/Question1000.png</file>
+        <file>rsc/Question2000.png</file>
+        <file>rsc/Jeopardy-Theme.mp3</file>
+        <file>rsc/Theme.mp3</file>
+    </qresource>
+</RCC>
